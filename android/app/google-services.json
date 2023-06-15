@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049248898445",
+    "project_id": "pumpn-app",
+    "storage_bucket": "pumpn-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049248898445:android:c1daa8f1448e59b7fff1c4",
+        "android_client_info": {
+          "package_name": "com.naman.pumpn.pumpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049248898445-aef9nbsd13rkmcrl3u649vqtgde8k3ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1xZHtWM4SBe8MttxsWdYziaJ0eKD0NBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049248898445-aef9nbsd13rkmcrl3u649vqtgde8k3ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
