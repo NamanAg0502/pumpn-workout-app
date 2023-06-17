@@ -21,6 +21,7 @@ class _BottomNavigationScreenState extends State<BottomNavigationScreen> {
     // Replace these with your actual screens
     const ExploreScreen(),
     const WorkoutScreen(),
+    Container(),
     Screen4(),
     Screen5(),
   ];
